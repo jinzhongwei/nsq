@@ -15,7 +15,7 @@ import (
 	"time"
 )
 
-// logging stuff copied from github.com/nsqio/nsq/internal/lg
+// logging stuff copied from nsq/internal/lg
 
 type LogLevel int
 
